@@ -3,7 +3,7 @@ title: Guide Versioning
 keywords: development, versioning
 tags: [development]
 sidebar: overview_sidebar
-permalink: overview_guide_versioning.html
+permalink: overview-guide-versioning.html
 summary: An overview of how this Implementation Guide is versioned
 ---
 

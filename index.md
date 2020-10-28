@@ -1,5 +1,5 @@
 ﻿---
-title: Introduction to the UEC Connect Conformance Guide
+title: UEC Connect Conformance Guide
 keywords: homepage
 tags: [overview]
 sidebar: overview_sidebar
@@ -44,13 +44,13 @@ The information in this site covers two broad categories:
 *   Automated generation of validation reports
 *   Support for the collection of technical test evidence
 
-### Onboarding of software suppliers to the UEC Connect conformance process
+### Onboarding of software suppliers to the UEC Connect conformance process, providing:
 
 *   An overview of the NHS Digital approach for UEC Connect conformance
-*   UEC Connect conformance risk log
+*   A sample UEC Connect conformance risk log
 *   Test cases for validating key API functionality
 *   Clinical Scenarios built in to the sample CDSS instance
-*   Applying for conformance certification
+*   Guidance in applying for conformance certification
 
 ## Out of scope
 
@@ -64,9 +64,9 @@ Normative example messages and resources are not included in this version of the
 
 ## Useful Links 
 
-*   UEC Connect test tools: Quick start guide for EMS and CDSS suppliers
-*   [EMS Test Harness - User Interface](https://ems-ui.uec-connect.nhs.uk/)(account required)
-*   [Open Test MAIT Portal](http://192.168.128.17/Account/Login.aspx) (VPN required)
+*   [UEC Connect test tools: Quick start guide for EMS and CDSS suppliers](/quick-start-guide-ems-and-cdss.html)
+*   [EMS Test Harness - User Interface](https://ems-ui.uec-connect.nhs.uk/) ([account required](/register-with-mait-portal-and-ems-ui.html))
+*   [Open Test MAIT Portal](http://192.168.128.17/Account/Login.aspx) ([VPN required](/register-with-open-test-vpn.html))
 *   [UEC Connect Implementation Guide v1.1]((https://developer.nhs.uk/apis/cds-api-1-1-0/))
 *   [UEC Connect Implementation Guide v2.0]((https://developer.nhs.uk/apis/cds-api-2-0-0/))
 *   [Solution Concepts](https://developer.nhs.uk/apis/cds-api-2-0-0/overview_concepts.html)
@@ -74,4 +74,4 @@ Normative example messages and resources are not included in this version of the
 
 ## Note for Implementers
 
-This guide is issued as an alpha, and we welcome feedback (see Communication Channels for ways to contact us) on the guide and suggestions for improvement.
+This guide is issued as an alpha, and we welcome feedback (see [Communication Channels](/support-communications.html) for ways to contact us) on the guide and suggestions for improvement.

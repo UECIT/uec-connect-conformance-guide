@@ -4,7 +4,7 @@ keywords: support, communications, community
 tags: [support]
 toc: false
 sidebar: overview_sidebar
-permalink: support_communications.html
+permalink: support-communications.html
 summary: "Communication channels used for the FHIR&reg; Clinical Decision Support API."
 ---
 

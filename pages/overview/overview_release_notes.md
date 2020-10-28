@@ -3,7 +3,7 @@ title: Release Notes
 keywords: development, versioning
 tags: [development]
 sidebar: overview_sidebar
-permalink: overview_release_notes.html
+permalink: overview-release-notes.html
 summary: Summary release notes of the versions released in the UEC Digital Integration Programme Implementation Guide
 ---
 
@@ -118,6 +118,5 @@ The next version of the CDS API Implemenation Guide will introduce additional gu
 ## 0.1.0-experimental ##
 
 Initial draft of the implementation guide
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgxNzEyNjc3XX0=
---> -->
+
+-->
