@@ -28,7 +28,7 @@ The following list itemises the steps you must take to register with and then co
                             <p>You must first request a VPN login and obtain a certificate in order to connect to the OpenTest environment.
                             </p>
                             <p>Connecting to OpenTest allows you to access the MAIT portal.</p>
-                            <p><em>Note: You may already have an OpenTest account if you have previously performed testing with Spine.</em></p>
+                            <p><em>Note: You may already have an OpenTest account if you have been previously involved in the development of Spine related services.</em></p>
                         </td>
                     </tr>
                     <tr>
