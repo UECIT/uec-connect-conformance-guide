@@ -40,7 +40,7 @@ entries:
     output: web
     folderitems:
     - title: Overview
-      url: /ems-overview.html
+      url: /ems-cdss-overview.html
       output: web
 
 
@@ -48,16 +48,13 @@ entries:
     output: web
     folderitems:
     - title: Manage settings
-      url: /ems-overview.html
+      url: /ems-manage-settings.html
       output: web
     - title: Triage 
       url: /triage.html
       output: web 
     - title: Results
       url: /results.html
-      output: web 
-    - title: Handover
-      url: /handover.html
       output: web 
     - title: Handover
       url: /handover.html
