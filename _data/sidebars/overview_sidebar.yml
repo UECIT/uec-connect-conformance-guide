@@ -50,16 +50,19 @@ entries:
     - title: Manage settings
       url: /ems-manage-settings.html
       output: web
+    - title: Create an encounter 
+      url: /create-encounter.html
+      output: web 
     - title: Triage 
       url: /triage.html
       output: web 
-    - title: Results
-      url: /results.html
+    - title: Triage outcome
+      url: /ems-triage-outcome.html
       output: web 
     - title: Handover
       url: /handover.html
       output: web 
-    - title: Encounter Report Notification
+    - title: Encounter Report notification
       url: /encounter-report-notification.html
       output: web 
     - title: View audits
@@ -71,7 +74,7 @@ entries:
     - title: Requesting a validation report
       url: /requesting-a-validation-report.html
       output: web 
-    - title: EMS Known issues
+    - title: EMS known issues
       url: /ems-known-issues.html
       output: web 
 

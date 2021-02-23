@@ -4,7 +4,7 @@ keywords: development, versioning
 tags: [development]
 sidebar: overview_sidebar
 permalink: ems-manage-settings.html
-summary: 
+summary: A guide on how to manage the EMS test harness settings.
 toc: true
 ---
 

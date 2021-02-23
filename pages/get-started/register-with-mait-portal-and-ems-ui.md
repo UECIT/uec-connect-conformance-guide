@@ -133,4 +133,4 @@ After successfully registering with the EMS UI you can proceed to set up the rel
 
 You may now proceed to the [EMS UI](https://ems-ui.uec-connect.nhs.uk) to continue your setup.
 
-Learn more about the [EMS test harness and how to log in](ems-overview.html) on the overview page.
+Learn more about the [EMS test harness and how to log in](ems-cdss-overview.html) on the overview page.
